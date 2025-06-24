@@ -34,6 +34,4 @@ This Power BI project focuses on analyzing and visualizing sales performance. Be
 - Renamed key fields for clarity (e.g., `Cust_ID` → `CustomerID`).
 - Enabled star schema for optimal performance.
 
----
 
-Feel free to customize the actual names of columns and measures based on your internal setup. If you want a full extraction of the real values from the PBIX, I recommend exporting the Power BI data model to Excel or using Tabular Editor for precise documentation.
